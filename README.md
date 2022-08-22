@@ -1,2 +1,7 @@
-# cim102
-Class material for Interaction Design I students at University of Miami 
+# Interaction Design I
+
+Here you’ll find the class material for CIM 102 students at University of Miami. 
+
+Just pick the semester you’re interested in:
+
+- [2022 Fall](2022/Fall/) ⚠️ Work in progress
