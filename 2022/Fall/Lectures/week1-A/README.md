@@ -8,7 +8,10 @@ The syllabus was made available via BlackBoard.
 …
 
 ## User Experience Design
-…
+
+It’s… [interdisciplinary](https://github.com/envisprecisely/disciplines-of-ux)… to say the least.
+
+
 
 ## Interaction Design
 …
