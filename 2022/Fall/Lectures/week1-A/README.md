@@ -59,17 +59,16 @@ IxD | Interaction Design
 ## Interaction Design
 
 - [Media Equation](https://en.wikipedia.org/wiki/The_Media_Equation)
-
-
-
-## Preparation
-
-### Reading
 - [5 Dimensions of Interaction Design](https://www.interaction-design.org/literature/topics/interaction-design)
 
 ![GIF](../../../../media/5-dimensions.gif)
 
 I personnaly think _behavior_ is the most interesting.
+
+## Preparation
+
+### Reading
+- [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/), by NNGroup
 
 ### Figma
 
