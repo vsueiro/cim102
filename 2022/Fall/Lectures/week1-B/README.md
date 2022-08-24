@@ -31,6 +31,15 @@ IxD | Interaction Design
 
 I personnaly think _behavior_ is the most interesting.
 
+### Figma
+
+Here you’ll find the assets used on the prototype:
+- [Google Fonts](https://fonts.google.com/)
+- [Google Material Icons](https://fonts.google.com/icons)
+- GIFs:
+  - [Dog](../../../../media/dog.gif)
+  - [Cat](../../../../media/cat.gif)
+
 ## Preparation
 
 ### Pick & Present
