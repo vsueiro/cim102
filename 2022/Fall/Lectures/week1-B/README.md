@@ -17,8 +17,13 @@ IxD | Interaction Design
   - “404” × “This is embarassing…” 
   - [how-i-experience-web-today.com](https://how-i-experience-web-today.com/)
 
-### Dimensions
+### Dimensions 🕹
 - [5 Dimensions of Interaction Design](https://www.interaction-design.org/literature/topics/interaction-design)
+  - Words
+  - Visual representations
+  - Physical objects/space
+  - Time
+  - Behavior
 
 ![GIF](../../../../media/5-dimensions.gif)
 
