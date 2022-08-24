@@ -2,7 +2,8 @@
 
 ## User Experience Design
 
-It’s… [interdisciplinary](https://github.com/envisprecisely/disciplines-of-ux)… to say the least.
+It’s… [interdisciplinary](https://github.com/envisprecisely/disciplines-of-ux)… to say the [least](https://public-media.interaction-design.org/images/encyclopedia/human_computer_interaction_hci/Interaction-Design-Disciplines.jpg).
+<!-- Source: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro -->
 
 Initials|Term
 ---|---
