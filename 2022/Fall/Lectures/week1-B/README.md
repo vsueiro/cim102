@@ -14,7 +14,9 @@ IxD | Interaction Design
 
 - [Media Equation](https://en.wikipedia.org/wiki/The_Media_Equation)
   - “How People Treat Computers […] like Real People and Places”
-  - “404” × “This is embarassing…” 
+  - “404” × “This is embarassing…”
+    - [vsueiro.com/404](https://vsueiro.com/404)
+    - [pixar.com/404](https://www.pixar.com/404)
   - [how-i-experience-web-today.com](https://how-i-experience-web-today.com/)
 
 ### Dimensions 🕹
