@@ -40,6 +40,11 @@ Here you’ll find the assets used on the prototype:
   - [Dog](../../../../media/dog.gif)
   - [Cat](../../../../media/cat.gif)
 
+#### Video tutorial
+- [▶️ Introduction to Figma](https://youtu.be/T3emPBdUvMc) (recorded during class)
+- ▶️ Crating a simple app (to be recorded)
+
+
 ## Preparation
 
 ### Pick & Present
