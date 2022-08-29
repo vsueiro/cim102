@@ -24,3 +24,6 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 ### Week 1
 - [Monday class](Lectures/week1-A)
 - [Wednesday class](Lectures/week1-B)
+
+### Week 2
+- [Monday class](Lectures/week2-A)
