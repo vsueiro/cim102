@@ -9,8 +9,8 @@ Here you’ll find the assets used on the prototype:
   - [Dog](../../../../media/dog.gif)
   - [Cat](../../../../media/cat.gif)
 
-#### Video tutorial
-- ▶️ Crating a simple app (to be recorded during class)
+### Video tutorial
+- ▶️ Creating a simple app (to be recorded during class)
 
 
 ## Assignment: Quiz
