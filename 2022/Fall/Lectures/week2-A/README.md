@@ -32,6 +32,8 @@ Adapted from the [simplified](http://www.jjg.net/elements/pdf/elements_simplepla
 ### Hierarchy of User Needs
 A.k.a. “UX Pyramid”. Created by [Aaron Walter](https://aarronwalter.com), inspired by Maslow’s classic [Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#/media/File:Maslow's_Hierarchy_of_Needs2.svg).
 
+🆕 The pyramid below was originally published in the [“Why Usability is the Foundation for Delightful Experiences”](https://www.nngroup.com/articles/theory-user-delight/).
+
 ![Functional, Reliable, Useable, Pleasurable](../../../../media/aarron-walter-user-needs.png)
 
 Personal examples from instructor:
@@ -57,7 +59,9 @@ Mapping | Effects of controls should be obvious
 Consistency | Similar controls, similar effects
 Affordance | Provide clues about use of controls
 
-A nice overview of the principles can be read [here](https://principles.design/examples/don-norman-s-principles-of-design).
+A longer description of the principles can be read on [principles.design](https://principles.design/examples/don-norman-s-principles-of-design).
+
+🆕 For a more informal explanation (with real world examples), please read the [“Don Norman’s Principles of Interaction Design”](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33) article. 
 
 ## Preparation
 
