@@ -10,8 +10,12 @@ Here you’ll find the assets used on the prototype:
   - [Cat](../../../../media/cat.gif)
 
 ### Video tutorial
-- ▶️ Creating a simple app (to be recorded during class)
+- ▶️ Creating a simple interactive prototype (to be recorded)
 
+<!--
+### Actual Pixels
+- [▶️ iPhone screen under microscope](https://youtu.be/SZ7ar_vGMVE)
+-->
 
 ## Assignment: Quiz
 
