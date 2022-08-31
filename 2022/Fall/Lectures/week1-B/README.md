@@ -42,8 +42,6 @@ Here you’ll find the assets used on the prototype:
 
 #### Video tutorial
 - [▶️ Introduction to Figma](https://youtu.be/T3emPBdUvMc) (recorded during class)
-- ▶️ Crating a simple app (to be recorded)
-
 
 ## Preparation
 
