@@ -31,3 +31,11 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 3
 - Monday (no class)
+- [Wednesday class](Lectures/week3-B)
+
+👇 In-person classes from now on
+
+### Week 4 
+- Monday class
+- Wednesday class
+
