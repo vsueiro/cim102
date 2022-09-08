@@ -2,6 +2,8 @@
 
 ## Analyzing responses from quiz
 
+This was done live during class.
+
 ## Three laws of Ixd
 
 ### Hick’s Law
