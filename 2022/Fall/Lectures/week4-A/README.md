@@ -1,16 +1,21 @@
 # Lecture B — Week 3
 
-## Impact of a Quiz on Final Grade?
+## Impact of a Quiz on Final Grade
 
-Quizzes are worth 10 points.<br>
+The final grade is worth `100` points.<br>
+Quizzes are worth `10` points.<br>
 There are 4 quizzes.<br>
-So each quiz is worth 2.5 points.<br>
+So each quiz is worth `2.5` points.<br>
 The first quiz has 5 questions.<br>
-So each question is worth .5 points.
+So each question is worth `.5` points.
 
-## Changes on Future Quizzes?
+## Changes on Future Quizzes
 
-…
+From now on, quizzes will allow for a **second attempt** – and only the highest score will count.
+
+This will apply to quizzes number 2, 3 and 4.
+
+Big thanks to all students who suggested improvements ✨
 
 ## Understanding the Chart for Hick’s Law
 
