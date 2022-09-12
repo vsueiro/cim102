@@ -20,14 +20,18 @@ IxD | Interaction Design
   - [how-i-experience-web-today.com](https://how-i-experience-web-today.com/)
 
 ### Dimensions 🕹
-- [5 Dimensions of Interaction Design](https://www.interaction-design.org/literature/topics/interaction-design)
-  - Words
-  - Visual representations
-  - Physical objects/space
-  - Time
-  - Behavior
+
+[Source ](https://www.interaction-design.org/literature/topics/interaction-design)
 
 ![GIF](../../../../media/5-dimensions.gif)
+
+Dimension|Name|Description
+---|---|---  
+1D|Words|Encompass text, such as button labels, which help give users the right amount of information
+2D|Visual representations|Are graphical elements such as images, typography and icons that aid in user interaction
+3D|Physical objects/space|Refers to the medium through which users interact with the product or service—for instance, a laptop via a mouse, or a mobile phone via fingers 
+4D|Time|Relates to media that changes with time, such as animations, videos and sounds
+5D|Behavior|Is concerned with how the previous four dimensions define the interactions a product affords—for instance, how users can perform actions on a website, or how users can operate a car. Behavior also refers to how the product reacts to the users’ inputs and provides feedback
 
 I personnaly think _behavior_ is the most interesting.
 
