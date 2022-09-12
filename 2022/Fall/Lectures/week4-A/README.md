@@ -1,4 +1,4 @@
-# Lecture B — Week 3
+# Lecture A — Week 4
 
 ## Impact of a Quiz on Final Grade
 
@@ -16,6 +16,17 @@ From now on, quizzes will allow for a **second attempt** – and only the highes
 This will apply to quizzes number 2, 3 and 4.
 
 Big thanks to all students who suggested improvements ✨
+
+## Assignment: Quiz #2
+
+Our next quiz is due by Sep 19 (Monday) at `5:05 pm`. The time limit is right before class starts, so we can discuss the answers during class.
+
+Questions will cover the contents of these classes:
+- [Week 1 (Lecture B)](../week1-B/)
+- [Week 3 (Lecture B)](../week3-B/)
+- [Week 4 (Lecture A)](./)
+
+Quiz should be answered via Blackboard.
 
 ## Understanding the Chart for Hick’s Law
 
