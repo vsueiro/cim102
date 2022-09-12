@@ -36,6 +36,6 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 👇 In-person classes from now on
 
 ### Week 4 
-- Monday class
+- [Monday class]((Lectures/week4-A))
 - Wednesday class
 
