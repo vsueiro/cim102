@@ -14,13 +14,17 @@ Hick’s Law (or the Hick-Hyman Law) is named after a British and an American ps
 [Read more on IxD Foundation](https://www.interaction-design.org/literature/topics/hick-s-law)
 
 #### Example
-- [Binary decision tree](http://powerisunderstanding.blogspot.com/2013/03/the-office-best-character-final-four.html) diagram can make it easier to find your favorite character from a TV show
+- [Tournament brackets](https://images.squarespace-cdn.com/content/v1/58653ec4e3df28f032b03a74/1587655121349-21VV35WSCM3ZMHMWWHZ7/MADDYCORBINDISNEYBRACKET) (similar to a [inary tree](http://powerisunderstanding.blogspot.com/2013/03/the-office-best-character-final-four.html) diagram) can make it easier to find your favorite movie (from a limited set of options)
+
+![Disney tournament brackets](../../../../media/disney-tournament-bracket.jpg)
 
 #### Takeaways
 - Minimize choices when response times are critical to increase decision time.
 - Break complex tasks into smaller steps in order to decrease cognitive load.
 - Avoid overwhelming users by highlighting recommended options.
 - Use progressive onboarding to minimize cognitive load for new users.
+
+---
 
 ### Fitt’s Law
 The time to acquire a target is a function of the distance to and size of the target.
@@ -35,6 +39,8 @@ Psychologist Paul Fitts, examining the human motor system, showed that the time 
 - Touch targets should have ample spacing between them.
 - Touch targets should be placed in areas of an interface that allow them to be easily - acquired.
 
+---
+
 ### Miller’s Law
 The average person can only keep 7 (plus or minus 2) items in their working memory.
 
@@ -48,6 +54,8 @@ In 1956, George Miller asserted that the span of immediate memory and absolute j
 - Organize content into smaller chunks to help users process, understand, and memorize easily.
 - Remember that short-term memory capacity will vary per individual, based on their prior knowledge and situational context.
 
+---
+
 ### BONUS: Aesthetic-Usability Effect
 Users often perceive aesthetically pleasing design as design that’s more usable.
 
@@ -59,7 +67,12 @@ My Front End Funtamentals students were able to pin down specific UX issues with
 #### Takeaways
 - An aesthetically pleasing design creates a positive response in people’s brains and leads them to believe the design actually works better.
 - People are more tolerant of minor usability issues when the design of a product or service is aesthetically pleasing.
-- Visually pleasing design can mask usability problems and prevent issues from being discovered during usability testing.
+- Visually pleasing design can mask usability problems and prevent issues from being discovered during usability testing. Using low-fidelity mockups are an alternative:
+
+![](../../../../media/tournament-brackets-low-fidelity.jpg)
+
+
+---
 
 ## Reading for next class
 
