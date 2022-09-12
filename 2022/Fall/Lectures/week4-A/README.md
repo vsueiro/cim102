@@ -62,7 +62,9 @@ My Front End Funtamentals students were able to pin down specific UX issues with
 
 ## Usability Heuristics
 
-Intruce 4/10 of Jakob’s “tricks” for making usable products.
+Intruce a few(?) of Jakob’s “tricks” for making usable products.
+
+![Jakob’s 10 Usability Heuristics](../../../../media/heuristic-summary.png)
 
 ### 1. Visibility of System Status
 
