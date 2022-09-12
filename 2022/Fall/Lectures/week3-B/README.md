@@ -14,7 +14,7 @@ Hick’s Law (or the Hick-Hyman Law) is named after a British and an American ps
 [Read more on IxD Foundation](https://www.interaction-design.org/literature/topics/hick-s-law)
 
 #### Example
-- [Tournament brackets](https://images.squarespace-cdn.com/content/v1/58653ec4e3df28f032b03a74/1587655121349-21VV35WSCM3ZMHMWWHZ7/MADDYCORBINDISNEYBRACKET) (similar to a [inary tree](http://powerisunderstanding.blogspot.com/2013/03/the-office-best-character-final-four.html) diagram) can make it easier to find your favorite movie (from a limited set of options)
+- [Tournament brackets](https://images.squarespace-cdn.com/content/v1/58653ec4e3df28f032b03a74/1587655121349-21VV35WSCM3ZMHMWWHZ7/MADDYCORBINDISNEYBRACKET) (similar to a [binary tree](http://powerisunderstanding.blogspot.com/2013/03/the-office-best-character-final-four.html) diagram) can make it easier to find your favorite movie (from a limited set of options)
 
 ![Disney tournament brackets](../../../../media/disney-tournament-bracket.jpg)
 
