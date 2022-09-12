@@ -22,15 +22,23 @@ Big thanks to all students who suggested improvements ✨
 Our next quiz is due by Sep 19 (Monday) at `5:05 pm`. The time limit is right before class starts, so we can discuss the answers during class.
 
 Questions will cover the contents of these classes:
-- [Week 1 (Lecture B)](../week1-B/)
-- [Week 3 (Lecture B)](../week3-B/)
-- [Week 4 (Lecture A)](./)
+- [Week 1 - Lecture B](../week1-B/)
+- [Week 3 - Lecture B](../week3-B/)
+- [Week 4 - Lecture A](./)
 
 Quiz should be answered via Blackboard.
 
 ## Understanding the Chart for Hick’s Law
 
-…
+The time it takes to make a decision increases with the number and complexity of choices (but not linearly).
+
+![Adapted Hick’s Law chart](../../../../media/hicks-law-plotted-data-participant-red.svg)
+
+Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Hick's_law#Law).
+
+### Takeaways
+- Try to keep a very low amount of choices at a given time
+- Reducing amount of choices from, say, 4 to 2 has more impact than recucing from 10 to 8 (due to its logarithmic nature).
 
 ## Aesthetic-Usability Effect
 
@@ -41,10 +49,16 @@ The aesthetic-usability effect was first studied in the field of human–compute
 ### Example
 My Front End Funtamentals students were able to pin down specific UX issues with [Zara’s website](https://www.zara.com), EVEN THOUGH it is a very beautiful website.
 
+![GIF of Zara’s thumbnails changing feature](../../../../media/zara-thumbnails.gif)
+
 ### Takeaways
 - An aesthetically pleasing design creates a positive response in people’s brains and leads them to believe the design actually works better.
 - People are more tolerant of minor usability issues when the design of a product or service is aesthetically pleasing.
-- Visually pleasing design can mask usability problems and prevent issues from being discovered during usability testing.
+- Visually pleasing design can mask usability problems and prevent issues from being discovered during usability testing. Try using wireframes
+
+![Hand-drawn low fidelity interaction concept](../../../../media/tournament-brackets-low-fidelity.jpg)
+
+---
 
 ## Usability Heuristics
 

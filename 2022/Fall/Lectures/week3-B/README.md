@@ -69,7 +69,7 @@ My Front End Funtamentals students were able to pin down specific UX issues with
 - People are more tolerant of minor usability issues when the design of a product or service is aesthetically pleasing.
 - Visually pleasing design can mask usability problems and prevent issues from being discovered during usability testing. Using low-fidelity mockups are an alternative:
 
-![](../../../../media/tournament-brackets-low-fidelity.jpg)
+![Hand-drawn low fidelity interaction concept](../../../../media/tournament-brackets-low-fidelity.jpg)
 
 
 ---
