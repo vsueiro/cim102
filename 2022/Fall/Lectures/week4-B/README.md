@@ -21,8 +21,11 @@ Ok, I won’t replicate ALL of YouTube. Only a single interaction. I chose an in
 #### Assets
 
 Screen capture:
+
 ![](../../../../media/youtube-screen-capture.png)
 
 [▶️ Screen Recording](../../../../media/youtube-screen-recording.mp4)
 
-## Reminder: Quiz is due next class
+## Reminder
+
+Quiz is due next class!
