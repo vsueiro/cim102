@@ -73,7 +73,7 @@ Sep 26 23:59 pm|…|Part I|Goals & paper wireframe
 Oct 3 23:59 pm|…|Part II|Digital wireframe & mockup
 Oct 10 23:59 pm|…|Part III|Interactive prototype
 
-#### [Design Project 2 – Responsive prototype](Assignments/design-project-2.pdf)
+#### [Design Project 2 – Responsive Prototype](Assignments/design-project-2.pdf)
 
 To be announced.
 
