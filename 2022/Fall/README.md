@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Sep 14, 2022. This document is subject to change.
+Last updated on Sep 19, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -45,17 +45,38 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ## Assignments
 
-All assignments are presented in chronological order. They are subject to change:
+Quizzes, assessments & design projects are subject to change.
+
+### Quizzes
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
-Sep 19 5:05 pm|Open|Quiz #2|Dimensions, laws & heuristics
-Sep 21 5:05 pm|…|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
+Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
 Sep 26 5:05 pm|…|Quiz #3|Design Process
-…|…|Design Project #1|Interactive prototype
 …|…|Quiz #4|Visual design
+
+### Assessments
+
+🗓 Due by|Status|Title|Description
+---|---|---|---
+Sep 21 23:59 pm|Open|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
 …|…|Assessment #2|Testing prototype
-…|…|Design Project #2|Responsive prototype
-…|…|Design Project #3|Iterative design
-…|…|Final presentation|Case study of project #3
+
+### Projects
+
+#### [Design Project 1 – Interactive Prototype](Assignments/design-project-1.pdf)
+🗓 Due by|Status|Title|Description
+---|---|---|---
+Sep 26 23:59 pm|…|Part I|Goals & paper wireframe
+Oct 3 23:59 pm|…|Part II|Digital wireframe & mock-up
+Oct 10 23:59 pm|…|Part III|Interactive prototype
+
+#### [Design Project 2 – Responsive prototype](Assignments/design-project-2.pdf)
+
+To be announced.
+
+#### [Design Project 3 – Iterative Design](Assignments/design-project-3.pdf)
+
+To be announced.
+
