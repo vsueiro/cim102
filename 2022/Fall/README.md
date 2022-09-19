@@ -66,10 +66,11 @@ Sep 21 23:59 pm|Open|[Assessment #1](Assignments/assessment-1.pdf)|Replicating i
 ### Projects
 
 #### [Design Project 1 – Interactive Prototype](Assignments/design-project-1.pdf)
+
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 26 23:59 pm|…|Part I|Goals & paper wireframe
-Oct 3 23:59 pm|…|Part II|Digital wireframe & mock-up
+Oct 3 23:59 pm|…|Part II|Digital wireframe & mockup
 Oct 10 23:59 pm|…|Part III|Interactive prototype
 
 #### [Design Project 2 – Responsive prototype](Assignments/design-project-2.pdf)
