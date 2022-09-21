@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Sep 19, 2022. This document is subject to change.
+Last updated on Sep 21, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -53,7 +53,7 @@ Quizzes, assessments & design projects are subject to change.
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
 Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
-Sep 26 5:05 pm|…|Quiz #3|Design Process
+Sep 28 5:05 pm|…|Quiz #3|Design Process
 …|…|Quiz #4|Visual design
 
 ### Assessments
