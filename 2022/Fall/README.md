@@ -64,7 +64,7 @@ Sep 28 5:05 pm|…|Quiz #3|Design Process
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Sep 21 23:59 pm|Open|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
+Sep 21 23:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
 …|…|Assessment #2|Testing prototype
 
 ### Projects
@@ -73,7 +73,7 @@ Sep 21 23:59 pm|Open|[Assessment #1](Assignments/assessment-1.pdf)|Replicating i
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Sep 26 23:59 pm|…|Part I|Goals & paper wireframe
+Sep 26 23:59 pm|Open|Part I|Goals & paper wireframe
 Oct 3 23:59 pm|…|Part II|Digital wireframe & mockup
 Oct 10 23:59 pm|…|Part III|Interactive prototype
 
