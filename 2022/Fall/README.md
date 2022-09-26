@@ -57,7 +57,7 @@ Quizzes, assessments & design projects are subject to change.
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
 Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
-Sep 28 5:05 pm|…|Quiz #3|Design Process
+Oct 5 5:05 pm|…|Quiz #3|Design Process
 …|…|Quiz #4|Visual design
 
 ### Assessments
@@ -73,7 +73,7 @@ Sep 21 23:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicati
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Sep 26 23:59 pm|Open|Part I|Goals & paper wireframe
+Sep 28 23:59 pm|Open|Part I|Goals & paper wireframe
 Oct 3 23:59 pm|…|Part II|Digital wireframe & mockup
 Oct 10 23:59 pm|…|Part III|Interactive prototype
 
