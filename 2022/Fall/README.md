@@ -44,7 +44,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - [Wednesday class](Lectures/week5-B)
 
 ### Week 6
-- Monday class
+- [Monday class](Lectures/week6-A)
 - Wednesday class
 
 ## Assignments
