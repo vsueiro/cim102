@@ -47,6 +47,10 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - Monday class (cancelled due to weather)
 - [Wednesday class](Lectures/week6-B) (online on Zoom 💻 )
 
+### Week 7
+- [Monday class](Lectures/week7-A)
+- Wednesday class
+
 ## Assignments
 
 Quizzes, assessments & design projects are subject to change.
