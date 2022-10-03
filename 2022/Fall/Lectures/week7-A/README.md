@@ -33,6 +33,7 @@ This figure shows a low, medium and high-fidelity version of the same app.
 ![Sample app](../../../../media/low-to-high-fidelity-prototype.png)
 
 Source: [Article by Justinmind about prototypes](https://www.justinmind.com/prototyping/low-fidelity-vs-high-fidelity-prototypes).
+
 ---
 
 ## Reminder
