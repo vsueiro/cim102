@@ -49,7 +49,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 7
 - [Monday class](Lectures/week7-A)
-- Wednesday class
+- [Wednesday class](Lectures/week7-B)
 
 ## Assignments
 
@@ -77,8 +77,8 @@ Sep 21 11:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicati
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Oct 3 11:59 pm|Open|Part I|Goals & paper wireframe
-Oct 10 11:59 pm|…|Part II|Digital wireframe & mockup
+Oct 3 11:59 pm|Done ✅|Part I|Goals & paper wireframe
+Oct 10 11:59 pm|Open|Part II|Digital wireframe & mockup
 Oct 17 11:59 pm|…|Part III|Interactive prototype
 
 #### [Design Project 2 – Responsive Prototype ↗](Assignments/design-project-2.pdf)
