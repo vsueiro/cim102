@@ -18,6 +18,10 @@ Recreate your paper wireframe as a low-fidelity digital one.
 
 It should NOT have color or images, and focus ONLY on the layout and placement of your content. You may use labels or annotations to explain what the final content will be.
 
+This is an example we did live during class:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fr40KPcEGymWRgUYOIEI8BR%2Far-hotel%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 #### Step 2: Digital Mockup (not so ugly)
 
 *Duplicate* your page and remate it to `Mock-up`.
@@ -25,6 +29,10 @@ It should NOT have color or images, and focus ONLY on the layout and placement o
 Apply visual style to the user interface (UI).
 
 Your mock-up should NOT have any prototyping or interaction at this point. It should be a static set of screens.
+
+This is an example we did live during class:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fr40KPcEGymWRgUYOIEI8BR%2Far-hotel%3Fnode-id%3D2%253A43" allowfullscreen></iframe>
 
 #### Low fidelity? High fidelity?
 
