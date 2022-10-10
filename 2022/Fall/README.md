@@ -51,6 +51,10 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - [Monday class](Lectures/week7-A)
 - [Wednesday class](Lectures/week7-B)
 
+### Week 8
+- [Monday class](Lectures/week8-A)
+- Wednesday class
+
 ## Assignments
 
 Quizzes, assessments & design projects are subject to change.
@@ -61,7 +65,7 @@ Quizzes, assessments & design projects are subject to change.
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
 Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
-Oct 12 5:05 pm|…|Quiz #3|Design process
+…|…|Quiz #3|Design process
 …|…|Quiz #4|Visual design
 
 ### Assessments
