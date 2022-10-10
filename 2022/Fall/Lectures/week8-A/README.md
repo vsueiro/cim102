@@ -1,4 +1,4 @@
-# Lecture B — Week 7
+# Lecture A — Week 8
 
 ## Recap Design Project #1
 
