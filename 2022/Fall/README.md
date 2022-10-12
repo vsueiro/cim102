@@ -73,7 +73,7 @@ Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 21 11:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
-…|…|Assessment #2|Testing prototype
+Oct 24 11:59 pm|…|Assessment #2|Testing prototype
 
 ### Projects
 
