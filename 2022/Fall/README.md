@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Oct 12, 2022. This document is subject to change.
+Last updated on Oct 13, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -83,7 +83,7 @@ Oct 24 11:59 pm|…|Assessment #2|Testing prototype
 ---|---|---|---
 Oct 3 11:59 pm|Done ✅|Part I|Goals & paper wireframe
 Oct 10 11:59 pm|Done ✅|Part II|Digital wireframe & mockup
-Oct 17 11:59 pm|Open|Part III|Interactive prototype
+Oct 19 11:59 pm|Open|Part III|Interactive prototype
 
 #### [Design Project 2 – Responsive Prototype ↗](Assignments/design-project-2.pdf)
 
