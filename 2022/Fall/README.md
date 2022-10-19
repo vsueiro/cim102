@@ -53,6 +53,10 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 8
 - [Monday class](Lectures/week8-A)
+- [Wednesday class](Lectures/week8-B)
+
+### Week 9
+- [Monday class](Lectures/week9-A)
 - Wednesday class
 
 ## Assignments
