@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Oct 13, 2022. This document is subject to change.
+Last updated on Oct 19, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -77,7 +77,7 @@ Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 21 11:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
-Oct 24 11:59 pm|…|Assessment #2|Testing prototype
+Oct 26 5:05 pm|…|Assessment #2|Testing prototype
 
 ### Projects
 
