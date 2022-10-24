@@ -12,7 +12,7 @@ Even though nothing happens as we drag the handle of this slider, the dragging s
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="550" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FneAUxc34lAq919oEHz4pQF%2Finput-range%3Fnode-id%3D7%253A11%26scaling%3Dscale-down%26page-id%3D7%253A10" allowfullscreen></iframe>
 
-## Reinders
+## Reminders
 
 *For the usability testing, make sure your interactive prototype works well on a mobile device 📱 (via Figma app).
 
