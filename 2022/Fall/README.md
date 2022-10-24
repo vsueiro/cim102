@@ -57,7 +57,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 9
 - [Monday class](Lectures/week9-A)
-- [Wednesday class](Lectures/week9-A)
+- [Wednesday class](Lectures/week9-B)
 
 ### Week 10
 - [Monday class](Lectures/week10-A)
