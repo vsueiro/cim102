@@ -77,7 +77,7 @@ Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 21 11:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
-Oct 26 5:05 pm|…|Assessment #2|Testing prototype
+Oct 26 5:05 pm|Opens soon 💡|Assessment #2|Testing prototype
 
 ### Projects
 
@@ -87,7 +87,7 @@ Oct 26 5:05 pm|…|Assessment #2|Testing prototype
 ---|---|---|---
 Oct 3 11:59 pm|Done ✅|Part I|Goals & paper wireframe
 Oct 10 11:59 pm|Done ✅|Part II|Digital wireframe & mockup
-Oct 19 11:59 pm|Open|Part III|Interactive prototype
+Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 
 #### [Design Project 2 – Responsive Prototype ↗](Assignments/design-project-2.pdf)
 
