@@ -17,6 +17,8 @@ Testing *with* users allows us (and the business) to cheaply:
 
 *Users are not the one being tested, your interface is.
 
+This content is a simplified version of the [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/) article by NNGroup.
+
 ## Reminders
 
 *For the usability testing, make sure your interactive prototype works well on a mobile device 📱 (via Figma app).
