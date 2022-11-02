@@ -63,6 +63,10 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - [Monday class](Lectures/week10-A)
 - Wednesday class (Presentation day!)
 
+### Week 11
+- Monday class 
+- Wednesday class
+
 ## Assignments
 
 Quizzes, assessments & design projects are subject to change.
