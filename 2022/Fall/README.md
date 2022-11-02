@@ -97,7 +97,7 @@ Oct 3 11:59 pm|Done ✅|Part I|Goals & paper wireframe
 Oct 10 11:59 pm|Done ✅|Part II|Digital wireframe & mockup
 Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 
-#### [Design Project 2 – Responsive Prototype ↗](Assignments/design-project-2.pdf)
+#### Design Project 2 – Responsive Prototype
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
