@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Oct 26, 2022. This document is subject to change.
+Last updated on Nov 2, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -81,7 +81,7 @@ Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Sep 21 11:59 pm|Done ✅|[Assessment #1](Assignments/assessment-1.pdf)|Replicating interaction
-Oct 31 11:59 pm|Open|Assessment #2|Testing prototype
+Oct 31 11:59 pm|Done ✅|Assessment #2|Testing prototype
 
 ### Projects
 
@@ -95,7 +95,11 @@ Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 
 #### [Design Project 2 – Responsive Prototype ↗](Assignments/design-project-2.pdf)
 
-To be announced.
+🗓 Due by|Status|Title|Description
+---|---|---|---
+Nov 7 5:05 pm|...|Plan|Presenting your idea
+Nov 16 5:05 pm|...|Prototype (WIP)|Presenting your prototype
+Nov 21 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
 
 #### [Design Project 3 – Iterative Design ↗](Assignments/design-project-3.pdf)
 
