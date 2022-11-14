@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 2, 2022. This document is subject to change.
+Last updated on Nov 14, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -21,51 +21,75 @@ Here you’ll find a list of the main assets presented in class.
 
 The content of these pages it **not** self-explanatory and does **not** replace classes.
 
-### Week 1
+### Week 1 (Aug 22)
 - [Monday class](Lectures/week1-A)
 - [Wednesday class](Lectures/week1-B)
 
-### Week 2
+### Week 2 (Aug 29)
 - [Monday class](Lectures/week2-A)
 - [Wednesday class](Lectures/week2-B)
 
-### Week 3
+### Week 3 (Sep 5)
 - Monday (no class)
 - [Wednesday class](Lectures/week3-B)
 
 👇 In-person classes from now on
 
-### Week 4 
+### Week 4 (Sep 12)
 - [Monday class](Lectures/week4-A)
 - [Wednesday class](Lectures/week4-B)
 
-### Week 5
+### Week 5 (Sep 19)
 - [Monday class](Lectures/week5-A)
 - [Wednesday class](Lectures/week5-B)
 
-### Week 6
+### Week 6 (Sep 26)
 - Monday class (cancelled due to weather)
 - [Wednesday class](Lectures/week6-B) (online on Zoom 💻 )
 
-### Week 7
+### Week 7 (Oct 3)
 - [Monday class](Lectures/week7-A)
 - [Wednesday class](Lectures/week7-B)
 
-### Week 8
+### Week 8 (Oct 10)
 - [Monday class](Lectures/week8-A)
 - [Wednesday class](Lectures/week8-B)
 
-### Week 9
+### Week 9 (Oct 17)
 - [Monday class](Lectures/week9-A)
 - [Wednesday class](Lectures/week9-B)
 
-### Week 10
+### Week 10 (Oct 24)
 - [Monday class](Lectures/week10-A)
 - Wednesday class (Presentation day!)
 
-### Week 11
+### Week 11 (Oct 31)
 - Monday class 
 - Wednesday class
+
+### Week 12 (Nov 7)
+- Monday class (Presentation day!)
+- Wednesday class
+
+### Week 13 (Nov 14)
+- Monday class 
+- Wednesday class (Presentation day!)
+
+### Week 14 (Nov 21)
+- Monday (no class) 💡 Submit Project 2
+- Wednesday (no class)
+
+### Week 15 (Nov 28)
+- Monday class 
+- Wednesday class
+
+### Week 16 (Dec 5)
+- Monday class 
+- Wednesday class
+
+### Final Exam (Dec 15)
+
+To be defined. Original plan is to have a Project 3 presentation day on Dec 15. But let’s discuss this.
 
 ## Assignments
 
@@ -101,7 +125,7 @@ Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Nov 7 5:05 pm|...|Plan|Presenting your idea
+Nov 7 5:05 pm|Done ✅|Plan|Presenting your idea
 Nov 16 5:05 pm|...|Prototype (WIP)|Presenting your prototype
 Nov 21 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
 
