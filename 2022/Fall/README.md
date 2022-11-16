@@ -73,7 +73,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 13 (Nov 14)
 - Monday class 
-- Wednesday class (Presentation day!)
+- Wednesday class (Presentation day! Online on Zoom 💻 )
 
 ### Week 14 (Nov 21)
 - Monday (no class) 💡 Submit Project 2
