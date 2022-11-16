@@ -72,7 +72,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - Wednesday class
 
 ### Week 13 (Nov 14)
-- Monday class 
+- [Monday class](Lectures/week13-A)
 - Wednesday class (presentation day! online on Zoom 💻 )
 
 ### Week 14 (Nov 21)
@@ -80,7 +80,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - Wednesday (no class)
 
 ### Week 15 (Nov 28)
-- Monday class 
+- Monday class
 - Wednesday class (workday — attendance not mandatory)
 
 ### Week 16 (Dec 5)
