@@ -61,19 +61,19 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 10 (Oct 24)
 - [Monday class](Lectures/week10-A)
-- Wednesday class (Presentation day!)
+- Wednesday class (presentation day!)
 
 ### Week 11 (Oct 31)
 - Monday class 
 - Wednesday class
 
 ### Week 12 (Nov 7)
-- Monday class (Presentation day!)
+- Monday class (presentation day!)
 - Wednesday class
 
 ### Week 13 (Nov 14)
 - Monday class 
-- Wednesday class (Presentation day! Online on Zoom 💻 )
+- Wednesday class (presentation day! online on Zoom 💻 )
 
 ### Week 14 (Nov 21)
 - Monday (no class) 💡 Submit Project 2
@@ -81,15 +81,21 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Week 15 (Nov 28)
 - Monday class 
-- Wednesday class
+- Wednesday class (workday — attendance not mandatory)
 
 ### Week 16 (Dec 5)
-- Monday class 
-- Wednesday class
+- Monday class (workday — attendance not mandatory)
+- Wednesday class (presentation day!)
 
 ### Final Exam (Dec 15)
 
-To be defined. Original plan is to have a Project 3 presentation day on Dec 15. But let’s discuss this.
+As discussed during class, the final presentation of Project’s 3 case study will be on December 7.
+
+However, students who prefer to submit a video recording of their case study, can do so by December 15.
+
+The deadline for the two remaining quizzes will also be on December 15.
+
+
 
 ## Assignments
 
@@ -126,9 +132,12 @@ Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Nov 7 5:05 pm|Done ✅|Plan|Presenting your idea
-Nov 16 5:05 pm|...|Prototype (WIP)|Presenting your prototype
+Nov 16 5:05 pm|Today|Prototype (WIP)|Presenting your prototype
 Nov 21 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
 
-#### [Design Project 3 – Iterative Design ↗](Assignments/design-project-3.pdf)
+#### Design Project 3 – Iterative Design
 
-To be announced.
+🗓 Due by|Status|Title|Description
+---|---|---|---
+Dec 7 5:05 pm|...|Prototype (Final)|Presenting your case study
+Dec 15 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
