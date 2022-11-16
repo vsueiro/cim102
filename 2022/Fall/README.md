@@ -107,8 +107,8 @@ Quizzes, assessments & design projects are subject to change.
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
 Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
-…|…|Quiz #3|Design process
-…|…|Quiz #4|Visual design
+Dec 15 11:59 pm|…|Quiz #3|Design process
+Dec 15 11:59 pm|…|Quiz #4|Visual design
 
 ### Assessments
 
