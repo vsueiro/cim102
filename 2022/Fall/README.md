@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 16, 2022. This document is subject to change.
+Last updated on Nov 28, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
