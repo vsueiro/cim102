@@ -95,8 +95,6 @@ However, students who prefer to submit a video recording of their case study, ca
 
 The deadline for the two remaining quizzes will also be on December 15.
 
-
-
 ## Assignments
 
 Quizzes, assessments & design projects are subject to change.
@@ -132,8 +130,8 @@ Oct 19 11:59 pm|Done ✅|Part III|Interactive prototype
 🗓 Due by|Status|Title|Description
 ---|---|---|---
 Nov 7 5:05 pm|Done ✅|Plan|Presenting your idea
-Nov 16 5:05 pm|Today|Prototype (WIP)|Presenting your prototype
-Nov 21 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
+Nov 16 5:05 pm|Done ✅|Prototype (WIP)|Presenting your prototype
+Nov 21 11:59 pm|Done ✅|Prototype (Final)|Submitting your project via Blackboard
 
 #### Design Project 3 – Iterative Design
 
