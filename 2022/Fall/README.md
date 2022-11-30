@@ -89,9 +89,9 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 
 ### Final Exam (Dec 15)
 
-As discussed during class, the final presentation of Project’s 3 case study will be on December 7.
+As discussed during class, the final presentation of Project’s 3 (Iterative Design) will be on December 7.
 
-However, students who prefer to submit a video recording of their case study, can do so by December 15.
+However, students who prefer to submit a video recording of their presentation, can do so by December 15.
 
 The deadline for the two remaining quizzes will also be on December 15.
 
@@ -137,5 +137,5 @@ Nov 21 11:59 pm|Done ✅|Prototype (Final)|Submitting your project via Blackboar
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Dec 7 5:05 pm|...|Prototype (Final)|Presenting your case study
+Dec 7 5:05 pm|...|Prototype (Final)|Presenting your project
 Dec 15 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
