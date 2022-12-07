@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 30, 2022. This document is subject to change.
+Last updated on Dec 7, 2022. This document is subject to change.
 
 ## Syllabus
 The document was made available via Blackboard.
@@ -93,7 +93,7 @@ As discussed during class, the final presentation of Project’s 3 (Iterative De
 
 However, students who prefer to submit a video recording of their presentation, can do so by December 15.
 
-The deadline for the two remaining quizzes will also be on December 15.
+~~The deadline for the two remaining quizzes will also be on December 15.~~
 
 ## Assignments
 
@@ -105,8 +105,8 @@ Quizzes, assessments & design projects are subject to change.
 ---|---|---|---
 Sep 7 5:05 pm|Done ✅|Quiz #1|Interaction Design
 Sep 19 5:05 pm|Done ✅|Quiz #2|Dimensions, laws & heuristics
-Dec 15 11:59 pm|…|Quiz #3|Design process
-Dec 15 11:59 pm|…|Quiz #4|Visual design
+…|🚫 Cancelled|Quiz #3|Design process
+…|🚫 Cancelled|Quiz #4|Visual design
 
 ### Assessments
 
