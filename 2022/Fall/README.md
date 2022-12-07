@@ -137,5 +137,5 @@ Nov 21 11:59 pm|Done ✅|Prototype (Final)|Submitting your project via Blackboar
 
 🗓 Due by|Status|Title|Description
 ---|---|---|---
-Dec 7 5:05 pm|...|Prototype (Final)|Presenting your project
-Dec 15 11:59 pm|...|Prototype (Final)|Submitting your project via Blackboard
+Dec 7 5:05 pm|Today|Prototype (Final)|Presenting your project
+Dec 15 11:59 pm|Open|Prototype (Final)|Submitting your project via Blackboard
