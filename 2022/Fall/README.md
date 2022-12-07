@@ -80,7 +80,7 @@ The content of these pages it **not** self-explanatory and does **not** replace 
 - Wednesday (no class)
 
 ### Week 15 (Nov 28)
-- Monday class
+- Monday class (intro to project 3)
 - Wednesday class (workday — attendance not mandatory)
 
 ### Week 16 (Dec 5)
