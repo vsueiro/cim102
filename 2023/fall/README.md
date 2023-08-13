@@ -35,7 +35,7 @@ All tools are free (or provide a free version).
 
 We will not learn everything at once. Instead, this course is split into a few steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
-<div class="timeline" data-id="1eDADdAO7KfwLrX2jaflrvKM5fFVkgBGEL-hHyVJHKcE" data-range="CIM 443/643"></div>
+<div class="timeline" data-id="1eDADdAO7KfwLrX2jaflrvKM5fFVkgBGEL-hHyVJHKcE" data-range="CIM 102"></div>
 
 #### Presentation day
 
