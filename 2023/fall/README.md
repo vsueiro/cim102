@@ -167,7 +167,7 @@ In case students miss an in-class presentation, they can still submit a video re
 
 ## Office Hours
 
-Students are welcome to schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/vsueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting. If you want to meet at another day, time, or place, please email your instructor to check availability.
+Students are welcome to schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/viniciussueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting. If you want to meet at another day, time, or place, please email your instructor to check availability.
 
 ## Policies
 
