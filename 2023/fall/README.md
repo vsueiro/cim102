@@ -90,18 +90,22 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-| Step             | Weight    | Assignment      | Task          | Points |
-| ---------------- | --------- | --------------- | ------------- | ------ |
-| Introduction     | 10 Points | Expectations    | Submission    | 10     |
-| Project: Profile | 40 Points | Planning        | Presentation  | 10     |
-| \*               | \*        | \*              | Peer Feedback | 5      |
-| \*               | \*        | Website         | Peer Feedback | 5      |
-| \*               | \*        | \*              | Presentation  | 10     |
-| \*               | \*        | \*              | Submission    | 10     |
-| Project: Quiz    | 40 Points | Website         | Presentation  | 15     |
-| \*               | \*        | \*              | Peer Feedback | 10     |
-| \*               | \*        | \*              | Submission    | 15     |
-| Final Exam       | 10 Points | Self-reflection | Submission    | 10     |
+| Step                                    | Weight    | Assignment            | Task         | Points |
+| --------------------------------------- | --------- | --------------------- | ------------ | ------ |
+| Introduction                            | 5 Points  | Expectations          | Submission   | 5      |
+| Design Notebook                         | 10 Points | Weekly Critique       | Submission   | 10     |
+| Design Exercises                        | 30 Points | Interactive Prototype | Submission   | 10     |
+| \*                                      | \*        | Animated Prototype    | Submission   | 10     |
+| \*                                      | \*        | User Testing          | Submission   | 10     |
+| Design Project 1: Interactive Prototype | 25 Points | Wireframe             | Submission   | 5      |
+| \*                                      | \*        | Mockup                | Submission   | 5      |
+| \*                                      | \*        | Prototype             | Presentation | 5      |
+| \*                                      | \*        | \*                    | Submission   | 10     |
+| Design Project 1: Design Brief          | 25 Points | Wireframe             | Submission   | 5      |
+| \*                                      | \*        | Mockup                | Submission   | 5      |
+| \*                                      | \*        | Prototype             | Presentation | 5      |
+| \*                                      | \*        | \*                    | Submission   | 10     |
+| Final Exam                              | 5 Points  | Self-reflection       | Submission   | 5      |
 
 #### Missed a task?
 
