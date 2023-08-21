@@ -15,7 +15,7 @@ This document is subject to change.
 
 ## Course Description
 
-In this class, students will familiarize themselves with the disciplines of user experience (UX) and interaction design (IxD), including design principles, postures, patterns, and visual design concepts specific to designing interactive digital products. Students will learn how to use a digital prototyping tool in order first to design low-fidelity, structural wireframes and then turn them into high-fidelity interactive prototypes.
+In this class, students will familiarize themselves with the disciplines of user experience (UX) and interaction design (IxD), including design principles, postures, patterns and visual design concepts specific to designing interactive digital products. Students will learn how to use a digital prototyping tool in order to first design low fidelity, structural wireframes and then turn them into high fidelity interactive prototypes.
 
 ### Course Goals
 
@@ -27,15 +27,27 @@ By the end of this course, students should be able to:
 
 ### Course Topics
 
-In order to reach the desired goals, students will learn concepts and techniques related to …
+In order to reach the desired goals, students will learn concepts and techniques related to UX and IxD, including design principles and Figma, a digital tool to prototype interfaces.
 
-All tools are free (or provide a free version).
+### Course Tools
+
+The following are **software applications** for this course and are all industry standards. These are all free when logging in with your UM Cane ID or signing up with your UM email address.
+
+- [Blackboard](https://courses.miami.edu/): This is the course management system where you’ll submit your assignments. Students and faculty are automatically enrolled in their courses.
+- [Figma](https://figma.com/): Get verified to access our Education plan and get all of the paid perks of our Professional plan for free.
+- `Optional` [Adobe Creative Cloud](https://adobe.com/): Free when signing in with your CaneID as an Enterprise ID (in lieu of an Adobe ID) .
+
+During class activities, the use of a laptop with internet access is encouraged. You will also need access to a smartphone and/or tablet for reference purposes.
+
+If you do not have a laptop or a smartphone available to you regularly, please let your instructor know.
 
 ### Course Timeline
 
 We will not learn everything at once. Instead, this course is split into a few steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
 <div class="timeline" data-id="1eDADdAO7KfwLrX2jaflrvKM5fFVkgBGEL-hHyVJHKcE" data-range="CIM 102"></div>
+
+<!--
 
 #### Presentation day
 
@@ -58,8 +70,6 @@ After the _last_ student presents, the _first_ student provides feedback.
 
 In essense, your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
 
-<!--
-_In other words: right before you present, you provide feedback for the student that has just presented._
 -->
 
 ### Course Content
@@ -80,68 +90,18 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-<table>
-    <tr>
-        <th>Step</th>
-        <th>Weight</th>
-        <th>Assignment</th>
-        <th>Task</th>
-        <th>Points</th>
-    </tr>
-    <tr>
-        <td>Introduction</td>
-        <td>10 Points</td>
-        <td>Expectations</td>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=5>Project: Profile</td>
-        <td rowspan=5>40 Points</td>
-        <td rowspan=2>Planning</td>
-        <td>Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Website</td>
-        <td>Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Project: Quiz</td>
-        <td rowspan=3>40 Points</td>
-        <td rowspan=3>Website</td>
-        <td>Presentation</td>
-        <td>15</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Submission</td>
-        <td>15</td>
-    </tr>
-    <tr>
-        <td>Final Exam</td>
-        <td>10 Points</td>
-        <td>Self-reflection</td>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-</table>
+| Step             | Weight    | Assignment      | Task          | Points |
+| ---------------- | --------- | --------------- | ------------- | ------ |
+| Introduction     | 10 Points | Expectations    | Submission    | 10     |
+| Project: Profile | 40 Points | Planning        | Presentation  | 10     |
+| \*               | \*        | \*              | Peer Feedback | 5      |
+| \*               | \*        | Website         | Peer Feedback | 5      |
+| \*               | \*        | \*              | Presentation  | 10     |
+| \*               | \*        | \*              | Submission    | 10     |
+| Project: Quiz    | 40 Points | Website         | Presentation  | 15     |
+| \*               | \*        | \*              | Peer Feedback | 10     |
+| \*               | \*        | \*              | Submission    | 15     |
+| Final Exam       | 10 Points | Self-reflection | Submission    | 10     |
 
 #### Missed a task?
 
@@ -190,10 +150,6 @@ Students are welcome to schedule individual sessions with the instructor. Please
     <p>
       Students are expressly prohibited from recording any part of this course. If any recordings are available to students, they are intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments.
     </p>
-    <p>
-      If the instructor or a University of Miami office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. Instructors are the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the virtual sessions are not allowed; and that such materials cannot be shared outside the physical or virtual classroom environment.
-    </p>
-
 </details>
 
 <details>
@@ -211,7 +167,7 @@ Students are welcome to schedule individual sessions with the instructor. Please
       In student papers, plagiarism is often due to:
     </p>
     <ul>
-      <li>Turning in someone else’s paper as one’s own</li>
+      <li>Turning in someone else’s work as one’s own</li>
       <li>Using another person’s data or ideas without acknowledgment</li>
       <li>Failing to cite a written source (printed or internet) of information that you used to collect data or ideas</li>
       <li>Copying an author’s exact words and putting them in the paper without quotation marks</li>
@@ -219,9 +175,19 @@ Students are welcome to schedule individual sessions with the instructor. Please
       <li>Copying, rephrasing, or quoting an author’s exact words and citing a source other than where the material was obtained</li>
       <li>Using wording that is very similar to that of the original source, but passing it off as one’s own</li>
     </ul>
-    <p>
-      The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
+</details>
+
+<details>
+  <summary>Use of Artificial Intelligence</summary>
+  <p>
+    ChatGPT and other Generative Artificial Intelligence (AI) software may be useful tools for enhancing learning, productivity, and creativity. For instance, they can assist with brainstorming, finding information, and creating materials, such as text, images, and other media. However, these tools must be used appropriately and ethically, and you must understand their limitations.
+  </p>
+  <p>
+    AI should help you think, not think for you. AI tools may be used to help generate ideas, frame problems, and perform research. It can be a starting point to your own thought process, analysis, and discovery. Do not use them to do your work for you, e.g., do not enter an assignment question into ChatGPT and copy & paste the response as your answer. The use of AI must be open and documented. The use of any AI in the creation of your work must be declared in your submission and explained. Your faculty can provide guidance as to the format and contents of the disclosure.
     </p>
+  <p>
+    If you use AI tools in any part of your work, you are responsible for the final product of that work, both academically and in the workforce.
+  </p>
 </details>
 
 ## Well-Being Resources & Support
@@ -229,12 +195,3 @@ Students are welcome to schedule individual sessions with the instructor. Please
 As you complete your coursework, consider how you can maintain your health and well-being as a top priority. To help you become familiar with the many programs and services available on campus, review the information collected on the Student Well-Being and Resiliency website available at [miami.edu/well-being](https://miami.edu/well-being).
 
 Please reach out to your instructor or any of the resources listed on the site if you need assistance or support throughout the semester.
-
-## Learn More
-
-There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are my top 3 free learning resources:
-
-- [W3Schools](https://www.w3schools.com/) (simplified documentation)
-- [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
-- [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
-- [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) (amazing JavaScript cheatsheet)
