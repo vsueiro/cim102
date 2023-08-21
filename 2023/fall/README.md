@@ -84,6 +84,8 @@ The following tables describe what you are expected to do before class (“Prepa
 
 <div class="table" data-step="4"></div>
 
+<div class="table" data-step="5"></div>
+
 ## Grading
 
 I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.
