@@ -114,7 +114,9 @@ I reserve the right to adjust the final grade according to class participation, 
 
 Late submissions via Blackboard <em>will</em> be accepted during the semester, but with a **10% grade deduction**.
 
-In case students miss an in-class presentation, they can still submit a video recording via Blackboard, also with a **10% grade deduction**. However, the peer feedback points will be lost.
+In case students miss an in-class presentation, they can still submit a video recording via Blackboard, also with a **10% grade deduction**.
+
+<!-- However, the peer feedback points will be lost. -->
 
 ### Grading Scale
 
