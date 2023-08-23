@@ -4,17 +4,17 @@
 - This course is focused on [user-centered design](https://en.wikipedia.org/wiki/User-centered_design)
 - One of its most famous approaches is [Design Thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking), by IDEO:
 
-![Intersection between desirabiilty, feasibility, and viability](../../../../media/desirabiilty-feasibility-viability.webp)
+![Intersection between desirabiilty, feasibility, and viability](../../../media/desirabiilty-feasibility-viability.webp)
 
 ## How?
 
 This process was formalized by [NNGroup](https://www.nngroup.com/articles/design-thinking/):
 
-![Full diagram](../../../../media/understand-explore-materialize-full.png)
+![Full diagram](../../../media/understand-explore-materialize-full.png)
 
 Personally, I believe the you only need to remember these 3 steps (adapted from NNGroup):
 
-![Simplified diagram](../../../../media/understand-explore-materialize.png)
+![Simplified diagram](../../../media/understand-explore-materialize.png)
 
 > “While design thinking is simply an approach to problem solving, it increases the probability of success and breakthrough innovation.”
 
