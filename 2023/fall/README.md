@@ -97,9 +97,8 @@ I reserve the right to adjust the final grade according to class participation, 
 | Introduction     | 5 Points  | Expectations          | Submission   | 5      |
 | Design Notebook  | 10 Points | Weekly Critique       | Submission   | 10     |
 | Design Exercises | 30 Points | Interactive Prototype | Submission   | 10     |
-| \*               | \*        | Animated Prototype    | Submission   | 10     |
-| \*               | \*        | User Testing          | Presentation | 5      |
-| \*               | \*        | \*                    | Submission   | 5      |
+| \*               | \*        | User Testing          | Presentation | 10     |
+| \*               | \*        | \*                    | Submission   | 10     |
 | Design Project 1 | 25 Points | Wireframe             | Submission   | 5      |
 | \*               | \*        | Mockup                | Submission   | 5      |
 | \*               | \*        | Prototype             | Presentation | 5      |
