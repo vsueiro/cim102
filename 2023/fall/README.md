@@ -7,9 +7,22 @@ This is the main document for the CIM 102 (section EF) course at University of M
 
 🗓 Classes on Mondays and Wednesdays, from `12:30 PM` to `1:45 PM`.
 
-| Lecturer                                                          | Email           | Office Hours                                                 |
-| ----------------------------------------------------------------- | --------------- | ------------------------------------------------------------ |
-| [Vinicius Sueiro](https://com.miami.edu/profile/vinicius-sueiro/) | vss43@miami.edu | [Calendly](https://calendly.com/viniciussueiro/office-hours) |
+<table>
+  <thead>
+    <tr>
+      <th>Lecturer</th>
+      <th>Email</th>
+      <th>Office Hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://com.miami.edu/profile/vinicius-sueiro/">Vinicius Sueiro</a></td>
+      <td><a href="mailto:vss43@miami.edu">vss43@miami.edu</a></td>
+      <td><a href="https://calendly.com/viniciussueiro/office-hours">Calendly</a></td>
+    </tr>
+  </tbody>
+</table>
 
 This document is subject to change.
 
