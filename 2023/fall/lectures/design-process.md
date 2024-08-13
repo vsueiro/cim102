@@ -30,7 +30,7 @@ Samples from my own [portfolio](https://vsueiro.com/).
 
 - Natural selection analogy (from [Wikimedia](https://commons.wikimedia.org/wiki/File:Mutation_and_selection_diagram.svg)):
 
-<a title="Elembis, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mutation_and_selection_diagram.svg"><img width="256" alt="Mutation and selection diagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mutation_and_selection_diagram.svg/256px-Mutation_and_selection_diagram.svg.png" style="background: white"></a>
+<a title="Elembis, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mutation_and_selection_diagram.svg"><img width="256" alt="Mutation and selection diagram" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Mutation_and_selection_diagram.svg"></a>
 
 - [Interactive story](https://vsueiro.com/work/epicenter) example:
 
