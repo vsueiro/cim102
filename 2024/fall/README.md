@@ -60,8 +60,6 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 <div class="timeline" data-id="1I56IhOYqak3-9n9C5Ce12DEX9ZRdUFnZmGXZIf45lp8" data-range="CIM 102"></div>
 
-<!--
-
 #### Presentation day
 
 For each project, students will share their initial **planning** and their final **website** with classmates. Since there are 2 projects, this means that each student will present their work 4&times; during the semester.
@@ -82,8 +80,6 @@ After one student presents, the next student provides feedback.
 After the _last_ student presents, the _first_ student provides feedback.
 
 In essense, your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
-
--->
 
 ### Course Content
 
@@ -108,7 +104,7 @@ I reserve the right to adjust the final grade according to class participation, 
 | Step             | Weight    | Assignment            | Task         | Points |
 | ---------------- | --------- | --------------------- | ------------ | ------ |
 | Introduction     | 5 Points  | Expectations          | Submission   | 5      |
-| Design Notebook  | 10 Points | Weekly Critique       | Submission   | 10     |
+| Inspiration Days | 10 Points | Weekly Critique       | Submission   | 10     |
 | Design Exercises | 30 Points | Interactive Prototype | Submission   | 10     |
 | \*               | \*        | User Testing          | Presentation | 10     |
 | \*               | \*        | \*                    | Submission   | 10     |
